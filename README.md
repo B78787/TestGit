@@ -1,2 +1,2 @@
 # TestGit
-Testailen Gitin käyttöä
+Testing GitHub and Git
